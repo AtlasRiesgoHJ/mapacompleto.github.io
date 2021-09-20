@@ -1,0 +1,1 @@
+var json_HISTRICOS2018Fugadegas2018_35 = {"type":"FeatureCollection","name":"HISTRICOS2018Fugadegas2018_35","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[-97.778361370783955,17.804275148621368]}}]}
